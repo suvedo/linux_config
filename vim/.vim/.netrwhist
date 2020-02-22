@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/search/odin/hdz/tightness_offline_title/make_tightness/tight_offline_count'
+let g:netrw_dirhist_2='/home/disk2/wangzheng24/rewrite/rewrite_asr_result/client_mcpack/data'
+let g:netrw_dirhist_3='/home/disk2/wangzheng24/rewrite/rewrite_asr_result/server_mcpack/src/server'
+let g:netrw_dirhist_4='/home/disk2/wangzheng24/workspace/baidu/speech-spil-nlp/asr-itg/server'
+let g:netrw_dirhist_5='/home/disk2/rewrite/eval'
+let g:netrw_dirhist_6='/home/disk2/wangzheng24/goodcoder'
+let g:netrw_dirhist_7='/home/disk2/wangzheng24/workspace/baidu/speech-spil-nlp/asr-itg/dialog/dialog_eval/test_gjx'
+let g:netrw_dirhist_8='/home/disk2/wangzheng24/workspace/baidu/speech-spil-nlp/dialog'
+let g:netrw_dirhist_9='/home/disk2/wangzheng24/workspace/baidu/speech-spil-nlp/dialog/deploy'
